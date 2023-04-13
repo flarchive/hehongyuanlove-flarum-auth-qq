@@ -1,0 +1,33 @@
+hehongyuanlove-auth-qq:
+  ##
+  # UNIQUE KEYS - The following keys are used in only one location each.
+  ##
+
+  # Translations in this namespace are used by the admin interface.
+  admin:
+    # These translations are used in the Google Settings modal dialog.
+    qq_settings:
+      client_id_label: App ID
+      client_secret_label: App Secret
+      title: QQ 设置
+
+  # Translations in this namespace are used by the forum user interface.
+  forum:
+    # These translations are used in the Log In modal dialog.
+    log_in:
+      with_qq_button: QQ 登录
+    buttons:
+      unlink: 解绑 QQ
+      link: 绑定 QQ
+      login: '=> hehongyuanlove-auth-qq.forum.log_in.with_qq_button'
+    modals:
+      unlink:
+        title: 解绑 QQ
+        info:
+          confirm: 你确定要解绑QQ账户么?
+          no_providers:  您没有其他登录方式，请先重置账户密码。
+        buttons:
+          confirm: 确定解绑
+          cancel: 取消
+      link:
+        title: 绑定 QQ
