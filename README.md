@@ -2,13 +2,14 @@
 
 > **Read-only archive of released versions of hehongyuanlove/flarum-auth-qq.** Not for installation: use [Packagist](https://packagist.org/packages/hehongyuanlove/flarum-auth-qq) or the [upstream repository](https://github.com/Hehongyuanlove/flarum-auth-qq).
 
-**0** versions archived · Latest: [`2.5.1`](https://github.com/flarchive/hehongyuanlove-flarum-auth-qq/tree/archive/v2.5.1) · License: `MIT` · Flarum: `*`
+**2** versions archived · Latest: [`2.5.1`](https://github.com/flarchive/hehongyuanlove-flarum-auth-qq/tree/archive/v2.5.1) · License: `MIT` · Flarum: `*`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `1.3.5` | 2022-09-21 | `*` | [Browse](https://github.com/flarchive/hehongyuanlove-flarum-auth-qq/tree/archive/v1.3.5) |
+| `2.5.1` | 2023-04-13 | `*` | [Browse](https://github.com/flarchive/hehongyuanlove-flarum-auth-qq/tree/archive/v2.5.1) |
 
 Catalog entry: [packages/hehongyuanlove-flarum-auth-qq.json](https://github.com/flarchive/archive-index/blob/main/packages/hehongyuanlove-flarum-auth-qq.json)
 
